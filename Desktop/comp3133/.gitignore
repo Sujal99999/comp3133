@@ -1,0 +1,11 @@
+Downloads/
+OneDrive/
+Videos/
+PycharmProjects/
+Music/
+*.exe
+*.zip
+*.msi
+*.log
+*.tmp
+.DS_Store
